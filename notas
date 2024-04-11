@@ -1,0 +1,22 @@
+*{
+
+}
+body{
+    background-color: rgb(144, 255, 144);
+    padding: 1%;
+}
+header{
+    background-color: rgb(182, 105, 255);
+    margin: 20px;
+    color: black;
+    text-align: center;
+    size: 200px;
+}
+main{
+    background-color: brown;
+}
+footer{
+background-color: black;
+color: aliceblue;
+}
+
